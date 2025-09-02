@@ -39,8 +39,9 @@ I am passionate about building data-driven solutions through analytics, machine 
 
 ## 📊 GitHub Stats  
 
-![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BitBurstAlpha&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitBurstAlpha&layout=compact)  
+![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BitBurstAlpha&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitBurstAlpha&layout=compact&theme=radical)  
 
 ---
 
