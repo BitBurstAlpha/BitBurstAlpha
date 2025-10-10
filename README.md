@@ -1,6 +1,6 @@
 # Dilshan Samarakoon  
 
-**Aspiring Data Scientist | Data Analysis | AI & Machine Learning Enthusiast**  
+**| Aspiring Data Engineer & Data Scientist | Data Analysis | Passionate About AI, Machine Learning & Data-Driven Solutions**  
 
 I am passionate about building data-driven solutions through analytics, machine learning, and cloud platforms. My focus is on turning data into actionable insights that support real-world decision-making.  
 
